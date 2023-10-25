@@ -1,4 +1,4 @@
-Package srp;
+package srp;
 
 public class OrderHistory{
     void getDailyHistory() {

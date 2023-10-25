@@ -1,4 +1,4 @@
-Package srp;
+package srp;
 class Order {
     void calculateTotalSum() {
         /*...*/
